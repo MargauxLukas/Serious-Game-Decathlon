@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class GameController : MonoBehaviour
+public class InputFieldController : MonoBehaviour
 {
     //Keyboard
     private TouchScreenKeyboard keyboard;
